@@ -1,0 +1,130 @@
+.first-section-bg ul li{
+    margin-right: 7%;
+}
+.d{
+    width: 5.5rem;
+}
+p{
+    color: gray;
+}
+h1{
+    font-weight: bold;
+}
+.button-style{
+    border: none;
+    color: #ffffff;
+    background-color: #21B573;
+    padding: 6px 30px;
+    border-radius: 33px;
+    text-align: center;
+    cursor: pointer;
+}
+.first-section-bg{
+    background-color: #F0FFF0;
+    margin-bottom: 3%;
+}
+.hd-padding{
+    padding: 5% 2%;
+}
+.margin-bottom{
+	margin-bottom: 20px;
+}
+.second-section,.third-section,.forth-section{
+    margin-bottom: 6%;
+}
+.card-section{
+    margin-top: 5%;
+}
+.cat{
+    padding: 30px;
+    background-color: #F8FFFB;
+    border-radius: 34px;
+}
+.cat img{
+   width: 60%;
+   margin-bottom: 10%;
+   transition: 0.5s;
+}
+.center{
+    text-align: center;
+    color: #413960;
+}
+.cat1 img{
+    width: 55%;
+}
+.cat img:hover {
+    transform: scale(1.2);
+}
+.card img{
+    padding: 30px 22px 8px 22px;;
+}
+.card{
+    transition: 0.5s;
+    border: none;
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 18px;
+}
+.card:hover{
+    transform: scale(0.9);
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+
+.card-footer img {
+        width: 16%;
+        padding: 0%;
+        margin: 0 5px 0 -5px;
+}
+.forth-section img{
+    width: 35%;
+}
+.testimonial-margin{
+    margin-top: 4%;
+}
+.fifth-section{
+    color: white;
+    background-color: #282531;
+    padding: 3rem;
+}
+.fifth-section .row{
+    padding: 3rem;
+}
+.footer-items ul{
+    list-style-type: none;
+}
+.footer{
+    text-align: center;
+}
+.fifth-section ul li{
+    width: 115px;
+}
+ul li:first-child{
+    font-weight: bold;
+}
+.footer{
+    margin: 1% auto;
+    margin-bottom: 4%;
+}
+.form-control{
+    padding: .5rem 1rem;;
+    height: 3rem;
+    font-size:  1.25rem;
+    line-height: 1.5;
+    border-radius: 2rem;
+    border-color: #21B573;
+}
+#sign p{
+    font-size: 1.3rem;
+    color: white;
+    text-align: center;
+    background-color: #21B573;
+    padding: 12px;
+    border-radius: 30px;
+}
+#sign{
+    margin-bottom: 8rem;
+   padding: 7rem;
+   background-color: #F0FFF0;
+}
